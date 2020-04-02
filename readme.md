@@ -17,7 +17,7 @@
 
 > it is used for Fetch,Save,Update & Delete blogs
 
-1. Create Class **BlogController**
+### Create Class **BlogController**
 
 ```	
 	@RestController
@@ -57,7 +57,7 @@
 
 ## POJO [com.niit.myblog.model]
 
->> 1. Create a Class **Blog**
+>> ### Create a Class **Blog**
  
  ```
 public class Blog {
@@ -73,7 +73,7 @@ public class Blog {
 
 ```
  
->>  2. create class BlogMockedData
+>> ### create class BlogMockedData
  
 ```
 public class BlogMockedData
